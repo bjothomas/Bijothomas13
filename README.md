@@ -1,8 +1,8 @@
-<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Cyril</h1>
+<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Bijo</h1>
 
 - 🔭 Specialising</i> in <b> AI&DS
 -  &#9997; Learner | Tech-enthusiast</b>
--  📫Reach me:<i>**cyrilksony@gmail.com**</i>
+-  📫Reach me:<i>**bjo@gmail.com**</i>
 
 ## <p align="center">Programming Languages:
 
