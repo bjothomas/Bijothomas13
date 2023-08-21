@@ -4,14 +4,14 @@
 <!-- Introduction -->
 Here's a little about me:
 
-- 🌱 I’m currently learning [AI & DS].
-- 💬 Ask me about [...].
-- 📫 Reach me at [Your Email](mailto:bijopulickassery@example.com) or connect with me on social media.
+- 🌱 I’m currently learning AI & DS.
+- 💬 Ask me about...
+- 📫 Reach me at bijopulickassery@gmail.com(mailto:bijopulickassery@example.com)
 <!-- 👯 I’m looking to collaborate on [Open Source Project Name].-->
 <!-- Connect with Me -->
 ## Connect with me:
 
-[<img align="left" alt="Website" width="32px" src="https://example.com/path-to-your-blogger-logo.png" />](https://boliviandiaries1968.blogspot.com/)
+[<img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/000000/blogger.png" />](https://boliviandiaries1968.blogspot.com/)
 [<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/bjothomas)
 [<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/yourusername)
 [<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/bjothomas)
@@ -22,7 +22,7 @@ Here's a little about me:
 <!-- Tech Stack -->
 ## My Tech Stack:
 
-- 💻 Programming Languages: [Python JAVA]
+- 💻 Programming Languages: Python....
 - 🛠️ Tools & Technologies: [Tools & Technologies]
 - 📚 Frameworks & Libraries: [Frameworks & Libraries]
 
@@ -46,7 +46,7 @@ Here's a little about me:
 <!-- GitHub Activity Graph -->
 ## GitHub Activity:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
 
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
