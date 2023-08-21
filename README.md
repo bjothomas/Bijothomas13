@@ -22,9 +22,11 @@ Here's a little about me:
 <!-- Tech Stack -->
 ## My Tech Stack:
 
-- 💻 Programming Languages: Python....
-- 🛠️ Tools & Technologies: [Tools & Technologies]
-- 📚 Frameworks & Libraries: [Frameworks & Libraries]
+- 💻 Programming Languages: Python, R, C++
+-🛠️ AI Tools: TensorFlow, PyTorch, scikit-learn
+-📚 AI Libraries: OpenCV, NLTK (Natural Language Toolkit), spaCy
+-📦 Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
+-🧠 Frameworks: Keras, H2O.ai, XGBoost
 
 <!-- GitHub Stats -->
 ## GitHub Stats:
@@ -46,7 +48,7 @@ Here's a little about me:
 <!-- GitHub Activity Graph -->
 ## GitHub Activity:
 
-<!--[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
 
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
