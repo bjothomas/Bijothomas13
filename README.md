@@ -6,7 +6,7 @@ Here's a little about me:
 
 - 🌱 I’m currently learning AI & DS.
 - 💬 Ask me about...
-- 📫 Reach me at bijopulickassery@gmail.com(mailto:bijopulickassery@example.com)
+- 📫 Reach me at [bijopulickassery@gmail.com](mailto:bijopulickassery@example.com)
 <!-- 👯 I’m looking to collaborate on [Open Source Project Name].-->
 <!-- Connect with Me -->
 ## Connect with me:
