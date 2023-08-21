@@ -49,7 +49,7 @@ Here's a little about me:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=Bijothomas13)
 
 <!-- Footer -->
 <hr />
