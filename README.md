@@ -22,11 +22,17 @@ Here's a little about me:
 <!-- Tech Stack -->
 ## My Tech Stack:
 
-- 💻 Programming Languages: Python, R, C++-
--🛠️ AI Tools: TensorFlow, PyTorch, scikit-learn-
--📚 AI Libraries: OpenCV, NLTK (Natural Language Toolkit), spaCy-
--📦 Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn-
--🧠 Frameworks: Keras, H2O.ai, XGBoost-
+- 💻 Programming Languages: [Languages]
+- 🛠️ Tools & Technologies: [Tools & Technologies]
+- 📚 Frameworks & Libraries: [Frameworks & Libraries]
+<!-- Tech Stack -->
+## My Tech Stack:
+
+- 💻 Programming Languages: Python, R, C++
+-🛠️ AI Tools: TensorFlow, PyTorch, scikit-learn
+-📚 AI Libraries: OpenCV, NLTK (Natural Language Toolkit), spaCy
+-📦 Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
+-🧠 Frameworks: Keras, H2O.ai, XGBoost
 
 <!-- GitHub Stats -->
 ## GitHub Stats:
