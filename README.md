@@ -41,14 +41,20 @@ Here's a little about me:
 <!-- Projects -->
 ## Featured Projects:
 
-- [Project 1 Name](https://github.com/Bijothomas13/Project-1): Brief description.
-- [Project 2 Name](https://github.com/Bijothomas13/Project-2): Brief description.
-- [Project 3 Name](https://github.com/Bijothomas13/Project-3): Brief description.
+- [Disease Detection In Poultry Farm](https://github.com/Bijothomas13/Project-1): A new disease detection method in poultry farming integrates 
+temperature sensor-based cluster analysis and fecal image 
+detection. Temperature sensors monitor birds' body temperature, 
+while clustering algorithms identify abnormal clusters as potential 
+outbreaks. Image detection analyzes fecal samples, aiding 
+disease surveillance and timely intervention for improved prevention in the poultry industry.
+
+<!-- [Project 2 Name](https://github.com/Bijothomas13/Project-2): Brief description.
+- [Project 3 Name](https://github.com/Bijothomas13/Project-3): Brief description.>
 
 <!-- GitHub Activity Graph -->
 ## GitHub Activity:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
+<!--[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
 
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
