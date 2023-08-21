@@ -2,20 +2,20 @@
 # Hi there, I'm [Bijo](https://yourwebsite.com)👋
 
 <!-- Introduction -->
-I'm a passionate developer specializing in [Your Specialization]. I love coding and learning new technologies. Here's a little about me:
+Here's a little about me:
 
-- 🌱 I’m currently learning [Current Focus].
-- 👯 I’m looking to collaborate on [Open Source Project Name].
-- 💬 Ask me about [Your Interests].
+- 🌱 I’m currently learning [AI & DS].
+<!-- 👯 I’m looking to collaborate on [Open Source Project Name].-->
+- 💬 Ask me about [...].
 - 📫 Reach me at [Your Email](mailto:bijopulickassery@example.com) or connect with me on social media.
 
 <!-- Connect with Me -->
 ## Connect with me:
 
 [<img align="left" alt="Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://yourwebsite.com)
-[<img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />](https://www.linkedin.com/in/yourname)
-[<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />](https://twitter.com/yourusername)
-[<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />](https://www.instagram.com/yourusername)
+[<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/yourname)
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/yourusername)
+[<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/yourusername)
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" />](https://github.com/yourusername)
 
 <br />
