@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hi there, I'm [Bijo](https://yourwebsite.com) 👋
+# Hi there, I'm [Bijo](https://yourwebsite.com)👋
 
 <!-- Introduction -->
 I'm a passionate developer specializing in [Your Specialization]. I love coding and learning new technologies. Here's a little about me:
